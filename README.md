@@ -5,3 +5,9 @@
 ![Shell](https://img.shields.io/badge/Bash-Shell-lightgrey)
 
 ![closetool's GitHub stats](https://github-readme-stats.vercel.app/api?username=closetool&show_icons=true&theme=highcontrast)
+
+* 🏫 南京邮电大学网络工程死宅
+* 💻 java入门, 本命golang
+* 💽 想用rust玩riscv嵌入式, 后因资料太少而放弃
+* 🕸️ 喜欢github上找项目玩
+* ✉️ 4closetool3@gmail.com
