@@ -4,7 +4,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Shell](https://img.shields.io/badge/Bash-Shell-lightgrey)
 
-![closetool's GitHub stats](https://github-readme-stats.vercel.app/api?username=closetool&show_icons=true&theme=highcontrast)
+![closetool's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilosonc&show_icons=true&theme=highcontrast)
 
 * 🏫 南京邮电大学网络工程死宅
 * 💻 java入门, 本命golang
